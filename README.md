@@ -1,8 +1,9 @@
-# jest
+# Jest Introduction
 
-Ed: https://edstem.org/au/courses/11264/lessons/32588/slides/228907
+## NOTE
+- Learning how to use Jest
 
-Goals:
+## What was covered
 
 - Learning Jest (JS test framework) - https://jestjs.io/docs/getting-started 
 	- basic Jest test suites
@@ -12,19 +13,22 @@ Goals:
 		- test.skip
 		- beforeEach & afterEach
 		- beforeAll & afterAll
+    
 	- varieties of matchers
 		- https://jestjs.io/docs/using-matchers
 		- https://jestjs.io/docs/expect
+    
 	- Jest code coverage
 	- mocks functions 
 		- https://jestjs.io/docs/mock-function-api 
 		- https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c 
+
 - Refresher on TDD concepts
-	- apply user stories to Jest test suites 
+	- apply user stories to Jest test suites
+   
 - Building a basic terminal app with TDD
 	- environment variables!
 		- https://www.npmjs.com/package/dotenv
-
 
 # Dice rolling app 
 
